@@ -295,6 +295,4 @@ Es el segmento más fiel en todos los planes (churn mínimo 13.33%) pero está i
 ## Stack utilizado
 
 - **Python 3** + **pandas** + **numpy**
-- **scipy** — tests estadísticos (Mann-Whitney U)
-- **matplotlib** — visualizaciones exploratorias
 - **Jupyter Notebook**
